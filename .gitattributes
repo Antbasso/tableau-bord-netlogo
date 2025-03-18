@@ -1,0 +1,21 @@
+# Configuration des fins de ligne
+* text=auto
+
+# Fichiers texte explicites
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.txt text eol=lf
+
+# Fichiers binaires (ne pas modifier)
+*.png binary
+*.jpg binary
+*.gif binary
+*.ico binary
+*.zip binary
+*.jar binary
+*.exe binary
+
+# Documentation
+*.md text eol=lf
+LICENSE text eol=lf
